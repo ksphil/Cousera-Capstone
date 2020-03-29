@@ -66,6 +66,16 @@ The center is calcualted by averaging latitudes and logitudes of restaurants. It
 |Columbus, OH	|0.091155|
 |Detroit, MI	|0.145858|
 
+### St Paul - Korean Restaurants
+![st. Paul](St_Paul.png)
+### Chicago - Korean Restaurants
+![Chicago](Chicago.png)
+### Indianapolis - Korean Restaurants
+![Indianapolis](Indianapolis.png)
+### Columbus - Korean Restaurants
+![Columbus](Columbus.png)
+### Detroit - Korean Restaurants
+![Detroit](Detroit.png)
 ### 3. Population and area information
 |City|Asian Population|Area|
 |----|----|----|
@@ -84,6 +94,12 @@ The center is calcualted by averaging latitudes and logitudes of restaurants. It
 |	Indianapolis, IN|	11|	0.124167|	27717|	948.96|	0.000131|	2519.73|
 |	Columbus, OH|	21|	0.091155|	49616|	566.18|	0.000161|	2362.67|
 |	Detroit, MI|	22|	0.145858|	10659|	359.28|	0.000406|	484.5|
+
+### Average Distance per Area comparison
+![AverageDistance](distance.png)
+
+### Number of People are Restaurant Comparison
+![Peoplescoe](Population.png)
 
 ## Conclusion
 According to the two measures I choose, St. Paul is the best city for new Korean restaurant, because it shows the lowest competition among Korean Restarants.
