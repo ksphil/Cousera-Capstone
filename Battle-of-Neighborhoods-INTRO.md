@@ -17,4 +17,4 @@ We want to fidn a city with small number of Korean restaurants <br>
 In short, we want to find a city with lowest competition. 
 ## Data
 ***
-I will use FourSqaure API to get the locations and Numbers of Korean restaurants in each cities. And I also use the Asian population information and areas from https://worldpopulationreview.com/us-cities for each cities. 
+I will use **FourSqaure API** to get the locations and Numbers of Korean restaurants in each cities. And I also use the Asian population information and areas from https://worldpopulationreview.com/us-cities for each cities. 
